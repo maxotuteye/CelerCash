@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorPrimaryTextDark"/>
+    <gradient
+        android:centerX=".5"
+        android:useLevel="false"
+        android:centerY="0"
+        android:startColor="@color/colorPrimary"
+        android:centerColor="@color/colorPrimaryDarkWhite"
+        android:endColor="@color/colorPrimary"
+        android:type="radial"
+        android:gradientRadius="1000dp"/>
+</shape>

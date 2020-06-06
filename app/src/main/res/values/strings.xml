@@ -1,0 +1,70 @@
+<resources>
+    <string-array name="universities">
+        <item>University of Ghana (Legon)</item>
+        <item>KNUST</item>
+        <item>University of Education (Winneba)</item>
+        <item>University of Cape Coast</item>
+        <item>University of Mines and Technology</item>
+        <item>Methodist University College</item>
+    </string-array>
+    <string-array name="loans_list">
+        <item>Ghc 12.00  </item>
+        <item>Ghc 7.50   </item>
+        <item>Ghc 50.00  </item>
+        <item>Ghc 4.00   </item>
+        <item>Ghc 2.25   </item>
+        <item>Ghc 4.75   </item>
+    </string-array>
+    <string-array name="payment_methods">
+        <item>MTN Mobile Money</item>
+        <item>Vodafone Cash</item>
+        <item>AirtelTigo Cash</item>
+        <item>Paypal</item>
+        <item>Debit Card</item>
+    </string-array>
+    <string name="app_name">CelerCash</string>
+    <string name="action_invest">Become an Investor</string>
+    <string name="investor_login">Kindly fill the form to continue</string>
+    <string name="action_settings">Settings</string>
+    <string name="celercashText">Get access to fast and secure loans at the speed of light!</string>
+    <string name="title_activity_register">Register</string>
+    <string name="footerRegister">Already a member?</string>
+    <string name="signin">Sign in</string>
+    <string name="register">Register</string>
+    <string name="tandc_register">By Registering you agree to our</string>
+    <string name="tandcs">By Registering you agree to our Terms and Conditions and Collateral Policy</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="policy">Collateral Policy</string>
+    <string name="and">and</string>
+    <string name="unis">University</string>
+    <string name="title_activity_verify">Verify</string>
+    <string name="verification">Enter the verification code sent to</string>
+    <string name="demo_number">0504561297</string>
+    <string name="codereceive">Didn\'t receive the code?</string>
+    <string name="resend">RESEND CODE</string>
+    <string name="title_activity_transactions">Transactions</string>
+    <string name="tab_text_1">All</string>
+    <string name="tab_text_2">Loans</string>
+    <string name="tab_text_3">Payments</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_celer_cash_main">CelerCashMain</string>
+    <string name="title_activity_celer_cash">CelerCash</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_invest">Invest</string>
+    <string name="payment_method">Choose your payment method</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This student ID is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Sign In</string>
+    <string name="title_activity_investor_profile">InvestorProfile</string>
+</resources>

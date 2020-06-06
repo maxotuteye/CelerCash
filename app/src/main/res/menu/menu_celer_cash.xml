@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.radius.celercash.CelerCash">
+    <item
+        android:id="@+id/action_invest"
+        android:orderInCategory="100"
+        android:title="@string/action_invest"
+        app:showAsAction="never" />
+</menu>
